@@ -13,4 +13,4 @@
 [![](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![](	https://img.shields.io/badge/Vue.js-151515?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
 
-_"Mesmo já atuando com essas tecnologias, busco evoluir a cada dia, <br> e cada vez mais expandir meus horizontes para stacks e tecnologias novas"_
+_"Mesmo já atuando com essas tecnologias, busco evoluir a cada dia, <br> expandindo meus horizontes cada dia mais para stacks e tecnologias novas"_
