@@ -12,5 +12,3 @@
 [![](https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=1572B6)]()
 [![](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![](	https://img.shields.io/badge/Vue.js-151515?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
-
-_"Mesmo já atuando com essas tecnologias, busco evoluir a cada dia, <br> expandindo meus horizontes cada dia mais para stacks e tecnologias novas"_
